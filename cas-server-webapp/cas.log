@@ -1,0 +1,283 @@
+2016-09-26 13:23:19,500 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-09-26 13:23:19,998 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-09-26 13:23:19,998 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-09-26 13:23:20,000 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-09-26 13:23:20,000 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-09-26 13:23:22,247 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-09-26 13:23:24,948 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-09-29 09:30:46,647 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-09-29 09:30:47,239 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-09-29 09:30:47,239 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-09-29 09:30:47,248 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-09-29 09:30:47,248 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-09-29 09:30:49,575 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-09-29 09:30:52,363 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-09-29 09:38:38,240 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-09-29 09:38:38,419 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-09-29 09:38:38,419 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-09-29 09:38:38,421 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-09-29 09:38:38,421 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-09-29 09:38:39,817 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-09-29 09:38:42,172 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-09-29 09:49:46,130 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-09-29 09:49:46,321 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-09-29 09:49:46,321 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-09-29 09:49:46,323 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-09-29 09:49:46,323 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-09-29 09:49:47,759 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-09-29 09:49:50,620 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-09-29 10:02:16,593 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-09-29 10:02:16,836 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-09-29 10:02:16,836 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-09-29 10:02:16,843 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-09-29 10:02:16,843 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-09-29 10:02:36,034 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-09-29 10:02:36,276 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-09-29 10:02:36,276 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-09-29 10:02:36,284 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-09-29 10:02:36,284 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-09-29 10:31:09,747 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-09-29 10:31:09,933 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-09-29 10:31:09,933 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-09-29 10:31:09,939 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-09-29 10:31:09,939 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-09-29 10:31:11,320 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-09-29 10:34:02,500 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-09-29 10:34:02,688 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-09-29 10:34:02,688 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-09-29 10:34:02,695 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-09-29 10:34:02,695 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-09-29 10:34:04,087 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-09-29 10:35:40,329 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-09-29 10:35:40,519 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-09-29 10:35:40,519 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-09-29 10:35:40,521 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-09-29 10:35:40,521 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-09-29 10:35:42,008 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-09-29 10:37:12,498 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-09-29 10:37:12,673 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-09-29 10:37:12,673 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-09-29 10:37:12,679 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-09-29 10:37:12,679 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-09-29 10:37:14,015 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-09-29 10:39:00,257 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-09-29 10:39:00,443 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-09-29 10:39:00,443 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-09-29 10:39:00,448 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-09-29 10:39:00,448 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-09-29 10:39:01,836 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-09-29 10:39:02,182 INFO [org.jasig.cas.jdbc.DouBaoDriverManagerDataSource] - Loaded JDBC driver: com.mysql.jdbc.Driver
+2016-09-29 10:39:04,295 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-09-29 10:40:51,136 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-09-29 10:40:51,322 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-09-29 10:40:51,322 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-09-29 10:40:51,325 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-09-29 10:40:51,325 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-09-29 10:40:52,731 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-09-29 10:40:53,073 INFO [org.jasig.cas.jdbc.DouBaoDriverManagerDataSource] - Loaded JDBC driver: com.mysql.jdbc.Driver
+2016-09-29 10:40:55,409 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-09-29 11:16:23,265 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-09-29 11:16:23,457 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-09-29 11:16:23,457 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-09-29 11:16:23,459 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-09-29 11:16:23,459 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-09-29 11:16:25,021 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-09-29 11:16:25,366 INFO [org.jasig.cas.jdbc.DouBaoDriverManagerDataSource] - Loaded JDBC driver: com.mysql.jdbc.Driver
+2016-09-29 11:16:27,507 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-09-29 11:23:47,603 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-09-29 11:23:47,784 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-09-29 11:23:47,784 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-09-29 11:23:47,785 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-09-29 11:23:47,785 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-09-29 11:23:49,119 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-09-29 11:23:49,464 INFO [org.jasig.cas.jdbc.DouBaoDriverManagerDataSource] - Loaded JDBC driver: com.mysql.jdbc.Driver
+2016-09-29 11:23:51,395 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-09-29 11:24:59,292 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-09-29 11:24:59,481 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-09-29 11:24:59,481 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-09-29 11:24:59,486 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-09-29 11:24:59,486 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-09-29 11:25:00,823 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-09-29 11:25:01,143 INFO [org.jasig.cas.jdbc.DouBaoDriverManagerDataSource] - Loaded JDBC driver: com.mysql.jdbc.Driver
+2016-09-29 11:25:03,182 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-09-29 11:28:42,622 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-09-29 11:28:42,812 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-09-29 11:28:42,812 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-09-29 11:28:42,815 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-09-29 11:28:42,815 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-09-29 11:28:44,224 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-09-29 11:28:44,563 INFO [org.jasig.cas.jdbc.DouBaoDriverManagerDataSource] - Loaded JDBC driver: com.mysql.jdbc.Driver
+2016-09-29 11:28:46,614 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-09-30 17:27:25,369 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-09-30 17:27:25,577 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-09-30 17:27:25,577 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-09-30 17:27:25,583 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-09-30 17:27:25,583 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-09-30 17:27:28,800 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-09-30 17:27:29,648 INFO [org.jasig.cas.jdbc.DouBaoDriverManagerDataSource] - Loaded JDBC driver: com.mysql.jdbc.Driver
+2016-09-30 17:27:33,823 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-10-02 16:43:04,475 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-10-02 16:43:04,896 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-10-02 16:43:04,896 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-10-02 16:43:04,901 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-10-02 16:43:04,901 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-10-02 16:43:06,885 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-10-02 16:43:07,548 INFO [org.jasig.cas.jdbc.DouBaoDriverManagerDataSource] - Loaded JDBC driver: com.mysql.jdbc.Driver
+2016-10-02 16:43:09,648 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-10-10 12:54:08,114 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-10-10 12:54:08,638 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-10-10 12:54:08,638 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-10-10 12:54:08,655 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-10-10 12:54:08,655 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-10-10 12:54:11,599 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-10-10 12:54:12,355 INFO [org.jasig.cas.jdbc.DouBaoDriverManagerDataSource] - Loaded JDBC driver: com.mysql.jdbc.Driver
+2016-10-10 12:54:15,484 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-10-10 15:55:04,197 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-10-10 15:55:04,518 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-10-10 15:55:04,518 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-10-10 15:55:04,527 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-10-10 15:55:04,527 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-10-10 15:55:07,715 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-10-10 15:55:08,607 INFO [org.jasig.cas.jdbc.DouBaoDriverManagerDataSource] - Loaded JDBC driver: com.mysql.jdbc.Driver
+2016-10-10 15:55:11,666 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-10-10 17:23:28,946 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-10-10 17:23:29,136 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-10-10 17:23:29,136 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-10-10 17:23:29,137 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-10-10 17:23:29,137 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-10-10 17:23:30,524 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-10-10 17:23:30,865 INFO [org.jasig.cas.jdbc.DouBaoDriverManagerDataSource] - Loaded JDBC driver: com.mysql.jdbc.Driver
+2016-10-10 17:23:32,916 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-10-11 14:23:22,742 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-10-11 14:23:23,171 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-10-11 14:23:23,171 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-10-11 14:23:23,184 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-10-11 14:23:23,184 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-10-11 16:12:54,536 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-10-11 16:12:54,899 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-10-11 16:12:54,899 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-10-11 16:12:54,921 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-10-11 16:12:54,921 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-10-11 16:12:58,574 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-10-11 16:12:59,581 INFO [org.jasig.cas.jdbc.DouBaoDriverManagerDataSource] - Loaded JDBC driver: com.mysql.jdbc.Driver
+2016-10-11 16:13:04,016 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-10-11 16:24:55,815 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-10-11 16:24:56,012 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-10-11 16:24:56,012 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-10-11 16:24:56,019 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-10-11 16:24:56,019 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-10-11 16:24:57,486 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-10-11 16:24:57,855 INFO [org.jasig.cas.jdbc.DouBaoDriverManagerDataSource] - Loaded JDBC driver: com.mysql.jdbc.Driver
+2016-10-11 16:25:00,340 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-10-11 16:29:04,592 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-10-11 16:29:04,781 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-10-11 16:29:04,781 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-10-11 16:29:04,786 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-10-11 16:29:04,786 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-10-11 16:29:06,294 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-10-11 16:29:06,795 INFO [org.jasig.cas.jdbc.DouBaoDriverManagerDataSource] - Loaded JDBC driver: com.mysql.jdbc.Driver
+2016-10-11 16:29:09,416 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-10-14 18:28:52,555 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-10-14 18:28:53,070 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-10-14 18:28:53,070 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-10-14 18:28:53,083 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-10-14 18:28:53,083 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-10-14 18:28:55,446 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-10-14 18:28:56,043 INFO [org.jasig.cas.jdbc.DouBaoDriverManagerDataSource] - Loaded JDBC driver: com.mysql.jdbc.Driver
+2016-10-14 18:28:58,377 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-10-14 18:39:32,095 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-10-14 18:39:32,273 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-10-14 18:39:32,273 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-10-14 18:39:32,278 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-10-14 18:39:32,278 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-10-14 18:39:33,632 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-10-14 18:39:33,988 INFO [org.jasig.cas.jdbc.DouBaoDriverManagerDataSource] - Loaded JDBC driver: com.mysql.jdbc.Driver
+2016-10-14 18:39:36,158 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-10-14 20:33:14,900 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-10-14 20:33:15,135 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-10-14 20:33:15,135 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-10-14 20:33:15,142 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-10-14 20:33:15,142 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-10-14 20:33:16,988 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-10-14 20:33:17,457 INFO [org.jasig.cas.jdbc.DouBaoDriverManagerDataSource] - Loaded JDBC driver: com.mysql.jdbc.Driver
+2016-10-14 20:33:20,216 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-10-14 20:36:57,724 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-10-14 20:36:57,927 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-10-14 20:36:57,927 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-10-14 20:36:57,935 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-10-14 20:36:57,935 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-10-14 20:36:59,427 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-10-14 20:36:59,830 INFO [org.jasig.cas.jdbc.DouBaoDriverManagerDataSource] - Loaded JDBC driver: com.mysql.jdbc.Driver
+2016-10-14 20:37:02,556 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-10-14 21:06:31,601 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-10-14 21:06:31,781 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-10-14 21:06:31,781 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-10-14 21:06:31,788 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-10-14 21:06:31,788 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-10-14 21:06:33,166 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-10-14 21:06:33,534 INFO [org.jasig.cas.jdbc.DouBaoDriverManagerDataSource] - Loaded JDBC driver: com.mysql.jdbc.Driver
+2016-10-14 21:06:35,797 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-10-19 10:19:15,364 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-10-19 10:19:15,691 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-10-19 10:19:15,691 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-10-19 10:19:15,697 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-10-19 10:19:15,697 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-10-19 10:19:17,118 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-10-19 10:19:17,514 INFO [org.jasig.cas.jdbc.DouBaoDriverManagerDataSource] - Loaded JDBC driver: com.mysql.jdbc.Driver
+2016-10-19 10:19:19,891 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-10-19 10:52:59,191 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-10-19 10:52:59,372 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-10-19 10:52:59,372 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-10-19 10:52:59,374 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-10-19 10:52:59,374 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-10-19 10:53:00,765 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-10-19 10:53:01,133 INFO [org.jasig.cas.jdbc.DouBaoDriverManagerDataSource] - Loaded JDBC driver: com.mysql.jdbc.Driver
+2016-10-19 10:53:03,336 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-10-19 18:53:57,403 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-10-19 18:53:57,810 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-10-19 18:53:57,810 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-10-19 18:53:57,876 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-10-19 18:53:57,876 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-10-19 18:54:01,163 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-10-19 18:54:01,773 INFO [org.jasig.cas.jdbc.DouBaoDriverManagerDataSource] - Loaded JDBC driver: com.mysql.jdbc.Driver
+2016-10-19 18:54:04,875 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-10-19 19:21:15,590 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-10-19 19:21:15,845 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-10-19 19:21:15,845 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-10-19 19:21:15,848 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-10-19 19:21:15,848 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-10-19 19:21:17,434 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-10-19 19:21:17,818 INFO [org.jasig.cas.jdbc.DouBaoDriverManagerDataSource] - Loaded JDBC driver: com.mysql.jdbc.Driver
+2016-10-19 19:21:20,464 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-10-20 20:08:11,339 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-10-20 20:08:11,763 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-10-20 20:08:11,763 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-10-20 20:08:11,766 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-10-20 20:08:11,766 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-10-20 20:08:15,059 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-10-20 20:08:15,845 INFO [org.jasig.cas.jdbc.DouBaoDriverManagerDataSource] - Loaded JDBC driver: com.mysql.jdbc.Driver
+2016-10-20 20:08:19,005 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-10-20 20:46:13,700 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-10-20 20:46:14,071 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-10-20 20:46:14,071 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-10-20 20:46:14,072 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-10-20 20:46:14,072 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-10-20 20:46:15,486 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-10-20 20:46:15,859 INFO [org.jasig.cas.jdbc.DouBaoDriverManagerDataSource] - Loaded JDBC driver: com.mysql.jdbc.Driver
+2016-10-20 20:46:18,166 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-10-25 18:19:58,472 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-10-25 18:19:59,091 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-10-25 18:19:59,091 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-10-25 18:19:59,103 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-10-25 18:19:59,103 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-10-25 18:20:02,165 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-10-25 18:20:02,764 INFO [org.jasig.cas.jdbc.DouBaoDriverManagerDataSource] - Loaded JDBC driver: com.mysql.jdbc.Driver
+2016-10-25 18:20:05,158 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-11-01 17:26:46,381 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now
+2016-11-01 17:26:46,905 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-11-01 17:26:46,905 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not defined in the service registry.
+2016-11-01 17:26:46,924 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-11-01 17:26:46,924 WARN [org.jasig.cas.web.flow.ServiceAuthorizationCheck] - Unauthorized Service Access for Service: [ null ] - service is not enabled in the service registry.
+2016-11-01 17:26:49,453 INFO [org.jasig.cas.services.DefaultServicesManagerImpl] - Loaded 1 services.
+2016-11-01 17:26:50,023 INFO [org.jasig.cas.jdbc.DouBaoDriverManagerDataSource] - Loaded JDBC driver: com.mysql.jdbc.Driver
+2016-11-01 17:26:52,232 INFO [org.jasig.cas.util.AutowiringSchedulerFactoryBean] - Starting Quartz Scheduler now

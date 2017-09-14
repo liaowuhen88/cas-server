@@ -1,0 +1,21 @@
+.img-groups {
+  width: 100%;
+  overflow: hidden;
+  ul {
+    width: 110%;
+    overflow: hidden;
+    li {
+      float: left;
+      margin-right: 10px;
+      margin-bottom: 10px;
+      width: 100px;
+      height: 100px;
+      text-align: center;
+      overflow: hidden;
+      background-image: url("../images/no-pic-default.png");
+      background-repeat: no-repeat;
+      background-position: center;
+      background-size: 100%;
+    }
+  }
+}

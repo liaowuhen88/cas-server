@@ -1,0 +1,156 @@
+.icon-suo:before {
+  content: "\e689";
+}
+
+.login-bg {
+  background: url("../images/bg.jpg") no-repeat top center;
+}
+
+.login{
+  width: 900px;
+  margin: 100px auto 0;
+
+  .logo {
+    width: 100%;
+    overflow: hidden;
+    img {
+      float: left;
+    }
+    > li{
+      float: left;
+    }
+    .one{
+      width: 150px;
+      margin-right: 30px;
+    }
+    .two,.three{
+      width: 150px;
+      margin-right: 30px;
+      margin-top: 15px;
+      color: #fff;
+      a{
+        color: #fff;
+        line-height: 32px;
+        font-size: 20px;
+        &:hover{
+          text-underline: none;
+        }
+      }
+      img{
+        margin-right: 10px;
+      }
+    }
+  }
+
+  .info {
+    width: 900px;
+    height: 330px;
+    margin-top: 30px;
+
+    float: left;
+    border-radius: 4px;
+    background: #fff;
+    box-shadow: 1px 1px 15px rgba(0,0,0,0.2);
+
+  }
+
+  .pic {
+    width: 510px;
+    float: left;
+    height: 330px;
+    overflow: hidden;
+
+    img {
+      width: 100%;
+      opacity: 0.6;
+      filter: alpha(opacity=60);
+    }
+  }
+
+  .form {
+    width: 390px;
+    float: right;
+
+    .form-horizontal{
+      margin-top: 40px;
+    }
+    .title {
+      line-height: 50px;
+      padding-left: 20px;
+      background: #45bfc0;
+
+      font-size: 20px;
+      color: #fff;
+
+      border-top-right-radius: 4px;
+      -webkit-border-top-right-radius: 4px;
+      -moz-border-top-right-radius: 4px;
+      -o-border-top-right-radius: 4px;
+    }
+    .input-group {
+      width: 356px;
+      height: 52px;
+      background: #fff;
+      border: 1px solid #ddd;
+      margin: 0 auto 20px;
+      position: relative;
+    }
+    .button-group {
+      margin: 26px auto 20px;
+      width: 356px;
+      height: 40px;
+      position: relative;
+    }
+  }
+  .form-cont {
+    width: 300px;
+    float: right;
+    font-size: 16px;
+    position: relative;
+    padding: 14px 0 14px 10px;
+    border: none;
+    background: none;
+  }
+  .btn {
+    width: 100%;
+    height: 40px;
+    float: right;
+    color: #fff;
+    background: #6083A9;
+    border-radius: 3px;
+    border: none;
+    font-size: 14px;
+  }
+
+  .group-addons {
+    width: 54px;
+    background: #f0eef1;
+    font-weight: normal;
+    line-height: 1;
+    color: #555;
+    text-align: center;
+    height: 50px;
+    float: left;
+    i{
+      left: 0;
+      top: 12px;
+      font-size: 23px;
+      color:#999;
+    }
+  }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

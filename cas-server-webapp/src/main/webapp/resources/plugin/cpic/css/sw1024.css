@@ -1,0 +1,72 @@
+#anysign_title ,#mass_anysign_title{
+    font-size : 30pt;
+    margin: 0 0 0 0;
+    vertical-align: middle;
+    text-align: center;
+    display: table-cell;
+    color: #333333;
+}
+#mass_anysign_title{
+    font-size : 18pt;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+#btnOK ,#mass_btnOK{
+    font-size : 25pt;
+}
+
+#btnClear ,#mass_btnClear{
+    font-size : 25pt;
+}
+
+#btnCancel ,#mass_btnCancel{
+    font-size : 25pt;
+}
+
+#btnContainerOuter,#mass_btnContainerOuter {
+    margin: 0 0 0 0;
+    text-align: center;
+    vertical-align: middle;
+    display: table-cell;
+}
+
+#btnContainerInner,#mass_btnContainerInner {
+    text-align: center;
+}
+
+#container,#mass_container {
+    border: 3px solid gray;
+    border-radius:3px;
+    position: relative;
+}
+
+#mass_container {
+    overflow-x:hidden;
+    overflow-y: auto;
+    left: -5;
+}
+
+#mass_scrollbar {
+    position: absolute;
+    right:0;
+    top:35%;
+}
+
+#mass_scrollbar_up ,#mass_scrollbar_down,#mass_scrollbar_top ,#mass_scrollbar_bottom{
+    display: block;
+    width: 25px;
+    height: 35px;
+    text-align: center;
+    vertical-align: middle;
+    border-radius:5px;
+    margin-top:5px;
+    margin-bottom:5px;
+    z-index: 10;
+    padding: 0;
+}
+
+#dialog,#mass_dialog {
+    border:3px solid rgba(0,0,0, 0.4);
+    border-radius:3px;
+}

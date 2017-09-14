@@ -1,0 +1,28 @@
+label.error {
+  position: absolute;
+  left: 0;
+  bottom: -22px;
+  display: none;
+  color: #f00;
+  font-size: 12px;
+  font-weight: normal;
+}
+
+.num-td{
+  display: block;
+  position: relative;
+  .bfhnum{
+    background-image: url("../images/bfh.png");
+    background-repeat: no-repeat;
+    background-position: right center;
+  }
+  span.errors {
+    position: absolute;
+    left: 10px;
+    bottom: -19px;
+    display: none;
+    color: #f00;
+    font-size: 12px;
+    font-weight: normal;
+  }
+}

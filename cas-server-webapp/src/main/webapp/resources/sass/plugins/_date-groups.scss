@@ -1,0 +1,33 @@
+.date-groups{
+  width: 100%;
+  display: table;
+  position: relative;
+  //margin-bottom: 10px;
+  .text{
+    float: left;
+    margin-right: 10px;
+  }
+  .date-inpt{
+    position: relative;
+    display: inline-block;
+    .dates{
+      float: left;
+      width: 120px;
+      margin-right: 20px;
+      input{
+        width: 120px;
+      }
+    }
+  }
+  .date{
+    float: left;
+    width: 120px;
+    margin-right: 5px;
+    input{
+      width: 120px;
+    }
+    &:last-child{
+      margin-right:0;
+    }
+  }
+}

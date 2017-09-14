@@ -1,0 +1,49 @@
+.header {
+  width: 100%;
+  background: #424242;
+
+  height: 59px;
+  padding-right: 50px;
+  .logo {
+    width: auto;
+    overflow: hidden;
+    margin-left: 25px;
+    float: left;
+    a{
+      display: block;
+      height: 59px;
+      font-size: 20px;
+      color: #fff;
+      text-decoration: none;
+      line-height: 59px;
+    }
+
+  }
+
+  .user_info {
+    text-align: right;
+    float: right;
+    color: #FFF;
+    padding: 22px 15px 0 0;
+  }
+  .sign-out {
+    float: right;
+    display: block;
+    padding-top: 21px;
+    background: url(../images/splice_pic.png) no-repeat 0 -125px;
+    width: 17px;
+    height: 20px;
+    margin-top: 20px;
+  }
+
+
+  .return {
+    float: left;
+    background: url(../images/splice_pic.png) no-repeat -125px -123px;
+    width: 18px;
+    height: 19px;
+    margin: 0 12px 0 0;
+    cursor: pointer;
+  }
+}
+

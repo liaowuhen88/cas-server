@@ -82,7 +82,7 @@
         <prop key="/logout">logoutController</prop>
         <prop key="/pwdreset">changeController</prop>
         <prop key="/pwdreset.html">changePwdIndexController</prop>
-
+        <prop key="/monitor">monitorController</prop>
         <prop key="/serviceValidate">serviceValidateController</prop>
         <prop key="/validate">legacyValidateController</prop>
         <prop key="/proxy">proxyController</prop>
@@ -175,7 +175,8 @@
 
   <bean id="changePwdIndexController" class="org.jasig.cas.control.ChangePwdIndexController"
   />
-
+  <bean id="monitorController" class="org.jasig.cas.control.MonitorController"
+  />
 
 
   <bean id="proxyValidateController" class="org.jasig.cas.web.ServiceValidateController"
